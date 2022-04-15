@@ -93,7 +93,7 @@ async def home(client, message):
         chat_id=message.chat.id,
         text="""<b>Hey there,
         
-im a telegraph Uploader That Can Upload Photo, Video And Gif
+Im a telegraph Uploader That Can Upload Photo, Video And Gif
         
 Simply send me photo, video or gif to upload to Telegra.ph
         
