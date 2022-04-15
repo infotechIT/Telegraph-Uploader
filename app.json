@@ -8,9 +8,9 @@
         "Telegram Bot",
         "Benchamxd"
     ],
-    "website": "https://benchamxd.me",
-    "repository": "https://github.com/Benchamxd/Telegra.ph-Uploader/",
-    "success_url": "https://telegram.dog/indusbots",
+    "website": "https://alxneboy.me",
+    "repository": "https://github.com/infotechIT/Telegra.ph-Uploader/",
+    "success_url": "https://telegram.dog/infotechIT",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
